@@ -20,6 +20,15 @@ audio.
 
 **NOTE:** Posterous is shutting down on April 30, and this plugin will no longer function properly because it relies on the service being available. For more information on backing up your Posterous content and migrating what you can into your WordPress blog, please see [this post](http://wordpress.org/support/topic/posterous-shutting-down?replies=1).
 
+=About Us=
+WPMU DEV is a premium supplier of quality WordPress plugins and themes. For premium support with any WordPress related issues you can join us here:
+http://premium.wpmudev.org/join/
+
+Don't forget to stay up to date on everything WordPress from the Internet's number one resource:
+http://wpmu.org
+
+Hey, one more thing... we hope you <a href="http://profiles.wordpress.org/WPMUDEV/">enjoy our free offerings</a> as much as we've loved making them for you!
+
 == Installation ==
 
 1. Upload the `posterous-importer-advanced` folder to the `/wp-content/plugins/` directory
@@ -42,7 +51,7 @@ http://premium.wpmudev.org/join/
 Don't forget to stay up to date on everything WordPress from the Internet's number one resource:
 http://wpmu.org
 
-Hey, one more thing… we hope you <a href="http://profiles.wordpress.org/WPMUDEV/">enjoy our free offerings</a> as much as we've loved making them for you!
+Hey, one more thing... we hope you <a href="http://profiles.wordpress.org/WPMUDEV/">enjoy our free offerings</a> as much as we've loved making them for you!
 
 == Changelog ==
 
