@@ -3,7 +3,7 @@ Contributors: WPMUDEV
 Tags: importer, posterous
 Requires at least: 2.9
 Tested up to: 3.5
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPL v2 - http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
 Import posts, comments, tags, attachments, and audio from a Posterous.com blog.
@@ -20,7 +20,7 @@ audio.
 
 **NOTE:** Posterous is shutting down on April 30, and this plugin will no longer function properly because it relies on the service being available. For more information on backing up your Posterous content and migrating what you can into your WordPress blog, please see [this post](http://wordpress.org/support/topic/posterous-shutting-down?replies=1).
 
-=About Us=
+**About Us**
 WPMU DEV is a premium supplier of quality WordPress plugins and themes. For premium support with any WordPress related issues you can join us here:
 http://premium.wpmudev.org/join/
 

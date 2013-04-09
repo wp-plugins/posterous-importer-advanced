@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: Posterous Importer Advanced
-Description: Import posts, pages, comments, categories, tags and more from a WordPress export file created by Posterous.
+Description: Import posts, comments, tags, attachments, and audio from a Posterous.com blog
 Author: WPMUDEV
 Author URI: http://premium.wpmudev.org/
-Version: 1.0
+Version: 1.0.1
 Text Domain: posterous-importer
 License: GPL version 2 or later - http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 */
@@ -1519,6 +1519,6 @@ function posterous_wp_importer_init() {
 	 * @global WP_Import $wp_import
 	 */
 	$GLOBALS['posterous_wp_import'] = new Posterous_WP_Importer();
-	register_importer( 'posterous-wxr', 'Posterous XML', __('Import <strong>posts, pages, comments, custom fields, categories, and tags</strong> from a WordPress export file from Posterous.com.', 'posterous-wp-importer'), array( $GLOBALS['wp_import'], 'dispatch' ) );
+	register_importer( 'posterous-wxr', 'Posterous XML', __('Import <strong>posts, pages, comments, custom fields, categories, and tags</strong> from a WordPress export file from Posterous.com.', 'posterous-wp-importer'), array( $GLOBALS['posterous_wp_import'], 'dispatch' ) );
 }
 add_action( 'admin_init', 'posterous_wp_importer_init' );
