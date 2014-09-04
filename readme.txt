@@ -2,7 +2,7 @@
 Contributors: WPMUDEV
 Tags: importer, posterous
 Requires at least: 2.9
-Tested up to: 3.5
+Tested up to: 4.0
 Stable tag: 1.0.1
 License: GPL v2 - http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
